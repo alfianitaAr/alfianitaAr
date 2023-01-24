@@ -1,5 +1,5 @@
 ### Hi there 👋 , My Name is Alfianita
-💻 I'm Information Technology student
+💻 I am a Bachelor of Information Technology graduate from Telkom University
 📃 in University, I learn C++, Java, Web Programming
 
 ### Reach Me:
